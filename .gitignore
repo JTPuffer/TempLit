@@ -1,0 +1,9 @@
+build*/
+.cache/
+data/
+*.metallib
+*.air
+*.bin
+*.tokens
+*.bpe
+dataset/*.txt
